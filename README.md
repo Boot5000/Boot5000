@@ -2,7 +2,14 @@
 
 - App Produksjon
 - Html Apper
-- Beste Convertments
+- Build for Html Design
+
+
+---------
+Bygge en Github Pages App
+
+- Konvertere den til
+  Android Webview
 
 
 ----------
