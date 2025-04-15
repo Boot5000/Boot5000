@@ -4,7 +4,10 @@
 - Html Apper
 - Build for Html Design
 
-
+- Save build time
+- Efffective Code
+  Html into Android
+  
 ---------
 Bygge en Github Pages App
 
