@@ -1,19 +1,11 @@
-Børsen blir 160 000 poeng rikere
-i hong kong
+App builds on Port 5000
 
---------
 
-jeg liker alibaba
+-----------
 
-------/
 
-Børsen kan kjøres opp
-i 160.000 poeng
-i hong kong
-
+This is Continous Port Forward
 
 ---------
 
-hong kong børsen hareeste oppgang hver måned
-
-
+Machines doing the work
